@@ -1,0 +1,30 @@
+body{
+  text-align:center;
+  display:flex;
+  flex-direction: column;
+}
+
+
+.title{
+}
+
+.score{
+
+}
+
+.scoreValue{
+
+}
+
+.cat{
+}
+
+.name{
+  font-size: 2em; 
+}
+
+.catBox{
+  display:flex;
+  flex-direction:row;
+  justify-content: center;
+}
